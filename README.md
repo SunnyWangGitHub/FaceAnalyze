@@ -9,3 +9,4 @@ import dlib
 需要生成一个百度人脸识别的的api的token
 
 会打开摄像头实时拍摄并给出age,beauty评分
+![image]()
